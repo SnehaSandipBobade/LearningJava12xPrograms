@@ -1,6 +1,6 @@
 package ex_01_Java_Basics;
 
-public class Lab004 {
+public class Lab004_Forloop {
     public static void main(String[] args) {
         int num=5,i=1,res=0;
         System.out.println("Table of 5 :");
