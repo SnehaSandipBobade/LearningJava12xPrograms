@@ -1,6 +1,6 @@
 package ex_03_JavaTasks;
 
-public class Lab081_18May_Task {
+public class Lab081_18May_Task3 {
     public static void main(String[] args) {
         System.out.println("#Task3");
         System.out.println("Q3. What will be the output:");

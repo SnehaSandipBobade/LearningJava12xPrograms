@@ -4,13 +4,12 @@ import java.util.Scanner;
 
 public class Lab083_24May_Task1 {
     public static void main(String[] args) {
-        System.out.println("Task 2 : \n" +
-                "Write a Java program that takes a month number (1-12) and " +
+        System.out.println("Task 2 :Write a Java program that takes a month number (1-12) and " +
                 "prints the number of days in that month using a switch statement. " +
                 "Handle February separately for leap years.\n" +
                 "a year is a leap year if it is divisible by 4, " +
                 "but not by 100, unless it is also divisible by 400.");
-        Boolean leap = false;
+        boolean leap = false;
         Scanner scanner = new Scanner(System.in);
         int n=0;
         int m=0;
