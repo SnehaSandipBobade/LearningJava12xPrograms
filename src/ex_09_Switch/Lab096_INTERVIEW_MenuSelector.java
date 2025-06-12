@@ -34,6 +34,7 @@ public class Lab096_INTERVIEW_MenuSelector {
                     System.out.println("Invalid choice. Please pick from 1 to 4.");
                     break;
             }
+
         }
         else {
             System.out.println("Invalid input! Please enter a number.");
