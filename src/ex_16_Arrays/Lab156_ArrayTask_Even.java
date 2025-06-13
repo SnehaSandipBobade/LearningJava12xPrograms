@@ -2,7 +2,7 @@ package ex_16_Arrays;
 
 import java.util.Scanner;
 
-public class Lab155_ArrayTask_Even {
+public class Lab156_ArrayTask_Even {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the size of the array(int)");
