@@ -1,8 +1,7 @@
-package ex_03_JavaTasks;
-import java.util.Arrays;
+package Java_Test;
 import java.util.Scanner;
 
-public class Lab082_19May_Task1 {
+public class Q11 {
     public static void main(String[] args) {
 
         System.out.println("Write a program that classifies a triangle based on its side lengths. " +
