@@ -1,6 +1,6 @@
-package ex_10_For_Loop;
+package Java_Test;
 
-public class Lab099_For_Loop_5_table {
+public class Q012 {
     public static void main(String[] args) {
         System.out.println("--- table 5th ---");
         for (int i=1;i<=10;i++)
