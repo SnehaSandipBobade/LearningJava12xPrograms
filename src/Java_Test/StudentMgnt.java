@@ -23,7 +23,7 @@ public class StudentMgnt {
 
 
         System.out.print("Details for Person 2: ");
-        sm1.studDetais(3,"Sandip","B");
+        sm2.studDetais(3,"Sandip","B");
         sm2.printDetails();
     }
 }
